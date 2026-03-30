@@ -234,4 +234,19 @@ export const COMPANIES: Company[] = [
     sourceUrl: "https://ca.linkedin.com/company/nationgraph",
     sourceLabel: "NationGraph LinkedIn company profile",
   },
+  {
+  slug: "superwhisper",
+  name: "Superwhisper",
+  website: "https://superwhisper.com",
+  shortDescription:
+    "AI voice to text for macOS, Windows & iOS.",
+  whyItMatters:
+    "The original voice-to-text tool built for the AI era, founded in Toronto and first to market.",
+  category: "Tools",
+  locationLabel: "10 Morrow Ave, Toronto, ON M6R 2J1",
+  coordinates: [-79.4472377, 43.6525365],
+  founded: 2024,
+  sourceUrl: "https://superwhisper.com/privacy",
+  sourceLabel: "Superwhisper Privacy Policy",
+},
 ]
